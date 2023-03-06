@@ -17,7 +17,7 @@ and display it.
 You pass the image URL and a set of parameters. wsrv.nl will then fetch the image, resize it,
 cache it and display it. The next time the request comes, it will serve the cached version.
 
-<CodeGroup>
+<[CodeGroup](https://i.imgur.com/tWlHrnB.png)>
 <CodeGroupItem title="HTML" active>
 ```html
 <!-- wsrv.nl/lichtenstein.jpg -->
